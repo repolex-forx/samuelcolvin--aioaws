@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "aioaws",
+  "versions": [
+    {
+      "commit": "d4141e30a11c2724558c330631de20ea02691f3d",
+      "tag": "v0.15.1",
+      "parsed_at": "2026-10-11T19:06:50.646646+00:00"
+    }
+  ]
+}
