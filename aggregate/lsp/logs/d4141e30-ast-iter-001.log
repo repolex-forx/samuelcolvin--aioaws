@@ -1,0 +1,7 @@
+[2026-10-11T19:05:18Z] === AST ITERATION 1 START | repo=samuelcolvin/aioaws sha=d4141e30 ===
+[2026-10-11T19:05:18Z] [iter=1] PHASE START: ast repo=samuelcolvin/aioaws sha=d4141e30
+[2026-10-11T19:05:18Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T19:05:31Z] [iter=1] AST chunks built count=1 triples=123529
+[2026-10-11T19:05:31Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/d4141e30a11c2724558c330631de20ea02691f3d/.complete
+[2026-10-11T19:05:31Z] [iter=1] PHASE END: ast elapsed_s=13 elapsed_min=0.2
+[2026-10-11T19:05:31Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

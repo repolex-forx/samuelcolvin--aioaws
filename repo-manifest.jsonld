@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/aioaws/commit/d4141e30a11c2724558c330631de20ea02691f3d",
       "git:hexsha": "d4141e30a11c2724558c330631de20ea02691f3d",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.15.1"
     },
     {
